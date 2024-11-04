@@ -1,0 +1,20 @@
+# Changes here will be overwritten by Copier
+_commit: 1.5.2
+_src_path: gh:pawamoy/copier-uv
+author_email: jean-michel.perraud@csiro.au
+author_fullname: J-M
+author_username: jmp75
+copyright_date: '2024'
+copyright_holder: J-M
+copyright_holder_email: jean-michel.perraud@csiro.au
+copyright_license: MIT License
+insiders: false
+project_description: Trial copier-uv as a template for py packaging
+project_name: copier-uv-test
+python_package_command_line_name: copier-uv-test
+python_package_distribution_name: copier-uv-test
+python_package_import_name: copier_uv_test
+repository_name: copier-uv-test
+repository_namespace: jmp75
+repository_provider: github.com
+
